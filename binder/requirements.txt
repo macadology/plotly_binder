@@ -1,5 +1,5 @@
-plotly
 pandas
+plotly
 ipython
 ipywidgets
 jupyter
