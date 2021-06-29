@@ -1,6 +1,0 @@
-pandas
-plotly
-ipython
-ipywidgets
-jupyter
-notebook
